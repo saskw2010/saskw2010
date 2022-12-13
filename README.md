@@ -28,9 +28,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Github Stats :
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=acervenky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=saskw2010&show_icons=true)](https://github.com/saskw2010/github-readme-stats)
 
-<p href="https://github.com/saskw2010/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/acervenky"></p>
+<p href="https://github.com/saskw2010/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/saskw2010"></p>
 
 
 
