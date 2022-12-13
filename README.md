@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif
 https://github.com/acervenky/acervenky/blob/master/assets/xda1.gif
 https://forum.xda-developers.com/member.php?u=4561985
-https://github.com/acervenky/acervenky/blob/master/assets/yt.gif
+[![yt](https://github.com/acervenky/acervenky/blob/master/assets/yt.gif)]
 https://www.youtube.com/acervenky)[![in]
 (https://github.com/acervenky/acervenky/blob/master/assets/in.gif)]
 (https://www.linkedin.com/in/venkateshsurve/)
