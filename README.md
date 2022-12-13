@@ -31,7 +31,27 @@ You can click the Preview link to take a look at your changes.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=acervenky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/acervenky"></p>
-----
-Credit: [acervenky](https://github.com/acervenky)
 
-Last Edited on: 19/11/2020
+<h3 align="center"> Hi there 👋</h3>
+
+<p align="center">
+I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+</p>
+
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akaskyiar">@akaskyiar</a>
+</h4>
+<p  align="center">
+<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+</p>
+
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.svg" alt="stacks"/>
+</h3>
+
+
