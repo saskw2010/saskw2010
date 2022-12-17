@@ -1,3 +1,26 @@
+I build full stack solutions using a variety of technologies:
+
+ * Blazor 🔥
+ * .NET 💜
+ * MAUI 🤖
+ * React 💻 
+ * Angular 🌐
+ * Azure ☁️
+ * Flutter 📱
+ * Python 🐍
+
+This year I'm learning more about DevOps and Azure so I can build more complex solutions.
+
+<div align="center">
+
+![github stats](https://github-readme-stats.vercel.app/api?username=bradystroud&show_icons=true&cache_seconds=86400&theme=dark)
+
+
+
+</div>
+
+
+
 - 👋 Hi, I’m @saskw2010(Mostafa Elnagar)
 ## Hey 👋, This is Mostafa Elnagar
 [![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wytsky.com)](mailto:wytsky.com) 
