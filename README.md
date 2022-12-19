@@ -20,7 +20,7 @@
 This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine learning so I can build more complex solutions.
 <br/>
 <div align="center">
-<h1>  More About My Business(Mostafa (A) ElNagar)   </h1>
+<h1>  More About Me (Mostafa (A) ElNagar)   </h1>
 </div>
 
 [![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.nagar@wytsky.com)](mailto:m.nagar@wytsky.com) 
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![vsneon](https://skyaierp.com/cover.png)\
+![vsneon](<img src="https://skyaierp.com/cover.png" width="150" height="75"> )\
 ![vsneon](https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif)\
 ![xda](https://github.com/acervenky/acervenky/blob/master/assets/xda1.gif)\
 [![yt](https://github.com/acervenky/acervenky/blob/master/assets/yt.gif)](https://www.youtube.com/acervenky)[![in](https://github.com/acervenky/acervenky/blob/master/assets/in.gif)](https://www.linkedin.com/in/venkateshsurve/)[![blog](https://github.com/acervenky/acervenky/blob/master/assets/blog1.gif)](https://www.keytechvk.com/)
