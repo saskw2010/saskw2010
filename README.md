@@ -3,23 +3,24 @@
   <h2> I’m @saskw2010 (This is Mostafa Elnagar) </h2>
 <h3> I build full stack solutions using a variety of technologies: </h3>
 </div>
-<br/>
- * Blazor 🔥
- * .NET 💜
- * MAUI 🤖
- * React 💻 
- * Angular 🌐
- * Azure ☁️
+<div align="center">
+<h1> I’m Expert Into  </h1>
+</div>
+<div align="center">
+<h1> Programming Languages and Frameworks  </h1>
+</div>
+
+ * Blazor, C# 🔥
+ * .NET,.NET Core,VB.NET 💜
+ * MAUI 🔥🤖
+ * React 💻 , Angular 🌐
  * Flutter 📱
  * Python 🐍
 <br/>
-This year I'm learning more about DevOps and Azure so I can build more complex solutions.
-<div align="center">
-![github stats](https://github-readme-stats.vercel.app/api?username=saskw2010&show_icons=true&cache_seconds=86400&theme=dark)
-</div>
+This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine learning so I can build more complex solutions.
 
-[![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wytsky.com)](mailto:wytsky.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-mostafa.ah.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa.ah.elnagar/)](https://www.linkedin.com/in/mostafa.ah.elnagar/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=saskw2010.github.io/)](saskw2010.github.io/) <p align='left'>I'm amazing</p>
+[![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.nagar@wytsky.com)](mailto:m.nagar@wytsky.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-mostafa.ah.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa.a.elnagar/)](https://www.linkedin.com/in/mostafa.a.elnagar/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=saskw2010.github.io/)](saskw2010.github.io/) <p align='left'>I'm amazing</p>
 
 <br/>
 <div><h3> Ai Optimal Enterprise solutions </h3></div>
