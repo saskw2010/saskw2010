@@ -1,5 +1,9 @@
-I build full stack solutions using a variety of technologies:
-
+<div align="center">
+   <h1>👋 Hi</h1>
+  <h2> I’m @saskw2010 (This is Mostafa Elnagar) </h2>
+<h3> I build full stack solutions using a variety of technologies: </h3>
+</div>
+<br/>
  * Blazor 🔥
  * .NET 💜
  * MAUI 🤖
@@ -8,27 +12,18 @@ I build full stack solutions using a variety of technologies:
  * Azure ☁️
  * Flutter 📱
  * Python 🐍
-
+<br/>
 This year I'm learning more about DevOps and Azure so I can build more complex solutions.
-
 <div align="center">
-
-![github stats](https://github-readme-stats.vercel.app/api?username=bradystroud&show_icons=true&cache_seconds=86400&theme=dark)
-
-
-
+![github stats](https://github-readme-stats.vercel.app/api?username=saskw2010&show_icons=true&cache_seconds=86400&theme=dark)
 </div>
 
-
-
-- 👋 Hi, I’m @saskw2010(Mostafa Elnagar)
-## Hey 👋, This is Mostafa Elnagar
 [![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wytsky.com)](mailto:wytsky.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-mostafa.ah.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa.ah.elnagar/)](https://www.linkedin.com/in/mostafa.ah.elnagar/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=saskw2010.github.io/)](saskw2010.github.io/) <p align='left'>I'm amazing</p>
 
-
-- <div _ngcontent-par-c1="" class="login-aside d-flex flex-column flex-row-auto"><div _ngcontent-par-c1="" class="d-flex flex-column-auto flex-column pt-lg-27 pt-15"><a _ngcontent-par-c1="" class="text-center mb-10" href="#"><img _ngcontent-par-c1="" alt="" class="max-h-30px" src=""></a><h3 _ngcontent-par-c1="" class="font-weight-bolder text-center font-size-h2 font-size-h1-lg fadeIn" style="color: #ffffff; text-shadow: 3px 2px 29px rgba(0,0,0,0.5);"> Ai Optimal <br _ngcontent-par-c1="">Enterprise solutions </h3></div><div _ngcontent-par-c1="" class="aside-img d-flex flex-row-fluid bgi-no-repeat bgi-position-y-bottom bgi-position-x-center"></div></div>
-- 
+<br/>
+<div><h3> Ai Optimal Enterprise solutions </h3></div>
+<br/>
 - 👀 I’m interested in c#,DotNet,Xamarin,Blazor,Maui,DotNet Core ,Machine learning,python,VB.net,API,Windows Services...
 - 🌱 I’m currently learning Build Ai APP applied NLP and Documents managment with Machine Learning ...
 - 💞️ I’m looking to collaborate on Applied Machine Learning ON ERP Solutions...
