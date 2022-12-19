@@ -19,13 +19,14 @@
 <br/>
 This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine learning so I can build more complex solutions.
 <br/>
+<div align="center">
+<h1> Programming Languages and Frameworks  </h1>
+</div>
 [![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.nagar@wytsky.com)](mailto:m.nagar@wytsky.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-mostafa.ah.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa.a.elnagar/)](https://www.linkedin.com/in/mostafa.a.elnagar/)
-<br/>
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://saskw2010.github.io/)](https://saskw2010.github.io/)
-
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://wytsky.com/)](https://wytsky.com/)
-<br/>
+
 <div><h3> Ai Optimal Enterprise solutions </h3></div>
 <br/>
 - 👀 I’m interested in c#,DotNet,Xamarin,Blazor,Maui,DotNet Core ,Machine learning,python,VB.net,API,Windows Services...
