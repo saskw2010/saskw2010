@@ -20,7 +20,7 @@
 This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine learning so I can build more complex solutions.
 <br/>
 <div align="center">
-<h1> Programming Languages and Frameworks  </h1>
+<h1>  More About My Business(Mostafa (A) ElNagar)   </h1>
 </div>
 
 [![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.nagar@wytsky.com)](mailto:m.nagar@wytsky.com) 
