@@ -1,6 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
+    
+[![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.nagar@wytsky.com)](mailto:m.nagar@wytsky.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-mostafa.ah.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa.a.elnagar/)](https://www.linkedin.com/in/mostafa.a.elnagar/)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://saskw2010.github.io/)](https://saskw2010.github.io/)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://wytsky.com/)](https://wytsky.com/)
+
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -11,7 +17,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=saskw2010&style=flat-square&color=blue" alt=""/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -66,8 +72,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="https://docs.github.com/en/developers" target="_blank">(<img src="https://skyaierp.com/cover.png" width="150" height="75"></a>\
-(https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif)\
+<a href="https://docs.github.com/en/developers" target="_blank">(<img src="https://skyaierp.com/cover.png" width="150" height="75"></a>
 ![xda](https://github.com/acervenky/acervenky/blob/master/assets/xda1.gif)\
 [![yt](https://github.com/acervenky/acervenky/blob/master/assets/yt.gif)](https://www.youtube.com/acervenky)[![in](https://github.com/acervenky/acervenky/blob/master/assets/in.gif)](https://www.linkedin.com/in/venkateshsurve/)[![blog](https://github.com/acervenky/acervenky/blob/master/assets/blog1.gif)](https://www.keytechvk.com/)
 
