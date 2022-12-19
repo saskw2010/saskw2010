@@ -1,7 +1,7 @@
 <div align="center">
    <h1>👋 Hi I’m @saskw2010 (This is Mostafa (A) ElNagar) </h1>   
 (Senior Full stack Developer and system architect)/(Machine Learning engineer) /Co-Founder- wytSKY Clouding Solutions
-<h3> I build full stack solutions using a variety of technologies: </h3>
+<h3> I build Full Stack Solutions using a variety of Technologies: </h3>
 </div>
 <div align="center">
 <h1> I’m Expert Into  </h1>
