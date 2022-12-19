@@ -27,7 +27,7 @@ This year I'm learning more about DevOps and Azure so I can build more complex s
 [![Linkedin Badge](https://img.shields.io/badge/-mostafa.ah.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa.ah.elnagar/)](https://www.linkedin.com/in/mostafa.ah.elnagar/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=saskw2010.github.io/)](saskw2010.github.io/) <p align='left'>I'm amazing</p>
 
 
-- <div _ngcontent-par-c1="" class="login-aside d-flex flex-column flex-row-auto"><div _ngcontent-par-c1="" class="d-flex flex-column-auto flex-column pt-lg-27 pt-15"><a _ngcontent-par-c1="" class="text-center mb-10" href="#"><img _ngcontent-par-c1="" alt="" class="max-h-150px" src="https://skyaierp.com/cover.png"></a><h3 _ngcontent-par-c1="" class="font-weight-bolder text-center font-size-h2 font-size-h1-lg fadeIn" style="color: #ffffff; text-shadow: 3px 2px 29px rgba(0,0,0,0.5);"> Ai Optimal <br _ngcontent-par-c1="">Enterprise solutions </h3></div><div _ngcontent-par-c1="" class="aside-img d-flex flex-row-fluid bgi-no-repeat bgi-position-y-bottom bgi-position-x-center"></div></div>
+- <div _ngcontent-par-c1="" class="login-aside d-flex flex-column flex-row-auto"><div _ngcontent-par-c1="" class="d-flex flex-column-auto flex-column pt-lg-27 pt-15"><a _ngcontent-par-c1="" class="text-center mb-10" href="#"><img _ngcontent-par-c1="" alt="" class="max-h-30px" src=""></a><h3 _ngcontent-par-c1="" class="font-weight-bolder text-center font-size-h2 font-size-h1-lg fadeIn" style="color: #ffffff; text-shadow: 3px 2px 29px rgba(0,0,0,0.5);"> Ai Optimal <br _ngcontent-par-c1="">Enterprise solutions </h3></div><div _ngcontent-par-c1="" class="aside-img d-flex flex-row-fluid bgi-no-repeat bgi-position-y-bottom bgi-position-x-center"></div></div>
 - 
 - 👀 I’m interested in c#,DotNet,Xamarin,Blazor,Maui,DotNet Core ,Machine learning,python,VB.net,API,Windows Services...
 - 🌱 I’m currently learning Build Ai APP applied NLP and Documents managment with Machine Learning ...
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+![vsneon](https://skyaierp.com/cover.png)\
 ![vsneon](https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif)\
 ![xda](https://github.com/acervenky/acervenky/blob/master/assets/xda1.gif)\
 [![yt](https://github.com/acervenky/acervenky/blob/master/assets/yt.gif)](https://www.youtube.com/acervenky)[![in](https://github.com/acervenky/acervenky/blob/master/assets/in.gif)](https://www.linkedin.com/in/venkateshsurve/)[![blog](https://github.com/acervenky/acervenky/blob/master/assets/blog1.gif)](https://www.keytechvk.com/)
