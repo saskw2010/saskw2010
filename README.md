@@ -89,7 +89,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Github Stats :
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=saskw2010&show_icons=true)](https://github.com/saskw2010/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&langs_count=10&custom_title="Most Used Languages Part 1"&hide=php,scss,css,html,handlebars,TSQL,gherkin&card_width=600)](https://github.com/saskw2010/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&langs_count=10&card_width=600&custom_title="Most Used Languages Part 2"&hide=c#,ASP.NET,VB.NET,TypeScript,JavaScript,Visual Basic.NET,python)](https://github.com/saskw2010/github-readme-stats)
 
 
