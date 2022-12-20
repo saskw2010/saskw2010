@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&langs_count=10&custom_title=MostUsedLanguagesPart1&hide=php,scss,css,html,handlebars,TSQL,gherkin&card_width=600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&langs_count=10&card_width=600&custom_title=Most-Used-Languages-Part-2&hide=c#,ASP.NET,VB.NET,TypeScript,JavaScript,Visual Basic.NET,python)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&langs_count=10&card_width=600&custom_title=Most-Used-Languages-Part-2&hide=c#,ASP.NET,VB.NET,TypeScript,JavaScript,Visual Basic .NET,python)
 
 ## ⚡ Technologies
 
