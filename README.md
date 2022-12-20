@@ -3,13 +3,13 @@
   <div id="badges">
     
 [![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saskw2010@gmail.com)](mailto:saskw2010@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-mostafa.a.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa.a.elnagar/)](https://www.linkedin.com/in/mostafa.a.elnagar/)
+[![Linkedin Badge](https://img.shields.io/badge/-mostafa.a.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa.a.elnagar/)](https://www.linkedin.com/in/mostafa-a-elnagar/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://saskw2010.github.io/)](https://saskw2010.github.io/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://wytsky.com/)](https://wytsky.com/)
  
   </div>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/mostafa.a.elnagar/" target="_blank">
+    <a href="[https://www.linkedin.com/in/mostafa.a.elnagar/](https://www.linkedin.com/in/mostafa-a-elnagar/)" target="_blank">
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
