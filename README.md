@@ -89,11 +89,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Github Stats :
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=saskw2010&show_icons=true)](https://github.com/saskw2010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&langs_count=10&card_width=600)](https://github.com/saskw2010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&langs_count=10&hide=php,scss,css,html,handlebars,TSQL,gherkin&card_width=600)](https://github.com/saskw2010/github-readme-stats)
 
-<p href="https://github.com/saskw2010/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/saskw2010"></p>
 
-
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=saskw2010&show_icons=true)](https://github.com/saskw2010/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&langs_count=15&card_width=600)](https://github.com/saskw2010/github-readme-stats)
