@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&langs_count=10&custom_title=MostUsedLanguagesPart2&hide=ASP.NET,Visual%Basic.NET,TypeScript,JavaScript,python,c%23&card_width=600)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&layout=compact&theme=radical&langs_count=10&custom_title=MostUsedLanguagesPart2&hide=ASP.NET,Visual%Basic.NET,TypeScript,JavaScript,python,c%23&card_width=600)
 
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
 ## Github Stats :
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=saskw2010&count_private=true&show_icons=true)](https://github.com/saskw2010/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&langs_count=10&custom_title=MostUsedLanguagesPart1&hide=php,scss,css,html,handlebars,TSQL,gherkin&card_width=600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&layout=compact&theme=radical&langs_count=10&custom_title=MostUsedLanguagesPart1&hide=php,scss,css,html,handlebars,TSQL,gherkin&card_width=600)
 
 
 
