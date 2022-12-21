@@ -30,7 +30,7 @@
   <div id="badges"  align="center">
     
 [![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saskw2010@gmail.com)](mailto:saskw2010@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-mostafa.a.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa.a.elnagar/)](https://www.linkedin.com/in/mostafa-a-elnagar/)
+[![Linkedin Badge](https://img.shields.io/badge/-mostafa.a.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa-a-elnagar/)](https://www.linkedin.com/in/mostafa-a-elnagar/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://saskw2010.github.io/)](https://saskw2010.github.io/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://wytsky.com/)](https://wytsky.com/)
  
@@ -42,7 +42,7 @@
     <a href="https://www.youtube.com/channel/UCgnV-yHUyAN6y2amvdxF2oQ" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://twitter.com/wyt_sky" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
