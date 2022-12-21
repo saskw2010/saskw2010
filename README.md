@@ -1,10 +1,19 @@
 <div id="header" align="center">
-  <img src="https://github.com/saskw2010/saskw2010/blob/main/20220223234204.gif"  width="600" height="300"/>
-  <div align="center">
-   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+   <img src="https://github.com/saskw2010/saskw2010/blob/main/20220223234204.gif"  width="700" height="450"/>
+   <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="300" height="450"/>
+  </div >
+   
+  
+  <div align="left">
+   <h3>
+For over the past two decades, Mostafa has worked as a database developer and a full-stack .NET developer, primarily focusing on databases. Database development is his strongest suit, including tuning, programming, ETL processes, and more. Mostafa has worked with well-known corporations such as:
+     <br/>
+     1- Zain Kuwait(MTC)
+     <br/>
+              <img src="https://github.com/saskw2010/saskw2010/blob/main/zainlogo.jpg" width="300" height="150"/> 
+     <br/>
+2-  Elsevier, and Universal Studios. 
+   
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div align="center">
