@@ -50,14 +50,6 @@
  
 </div>
 
-
-
- * Blazor, C# 🔥
- * .NET,.NET Core,VB.NET 💜
- * MAUI 🔥🤖
- * React 💻 , Angular 🌐
- * Flutter 📱
- * Python 🐍
 <br/>
 This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine learning so I can build more complex solutions.
 <br/>
@@ -70,8 +62,11 @@ This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine lear
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://saskw2010.github.io/)](https://saskw2010.github.io/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://wytsky.com/)](https://wytsky.com/)
 
-<div><h3> Ai Optimal Enterprise solutions </h3></div>
+<div>
+  <h3> Ai Optimal Enterprise solutions </h3>
+</div>
 <br/>
+
 - 👀 I’m interested in c#,DotNet,Xamarin,Blazor,Maui,DotNet Core ,Machine learning,python,VB.net,API,Windows Services...
 - 🌱 I’m currently learning Build Ai APP applied NLP and Documents managment with Machine Learning ...
 - 💞️ I’m looking to collaborate on Applied Machine Learning ON ERP Solutions...
@@ -103,7 +98,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ## ⚡ Technologies
-
+ * Blazor, C# 🔥
+ * .NET,.NET Core,VB.NET 💜
+ * MAUI 🔥🤖
+ * React 💻 , Angular 🌐
+ * Xamarin 📱
+ * Python 🐍
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
