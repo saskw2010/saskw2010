@@ -82,8 +82,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="https://docs.github.com/en/developers" target="_blank">(<img src="https://skyaierp.com/cover.png" width="150" height="75"></a>
-![xda](https://github.com/acervenky/acervenky/blob/master/assets/xda1.gif)\
+
 [![yt](https://github.com/acervenky/acervenky/blob/master/assets/yt.gif)](https://www.youtube.com/acervenky)[![in](https://github.com/acervenky/acervenky/blob/master/assets/in.gif)](https://www.linkedin.com/in/venkateshsurve/)[![blog](https://github.com/acervenky/acervenky/blob/master/assets/blog1.gif)](https://www.keytechvk.com/)
 
 
