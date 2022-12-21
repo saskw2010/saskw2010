@@ -1,8 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
   ## Github Stats :
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=saskw2010&count_private=true&show_icons=true)](https://github.com/saskw2010/github-readme-stats)
 
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&layout=compact&theme=radical&langs_count=10&custom_title=MostUsedLanguagesPart1&hide=php,scss,css,html,handlebars,TSQL,gherkin&card_width=600)
 
   
