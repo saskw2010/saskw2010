@@ -1,7 +1,22 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div align="center">
+   <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<div align="center">
+   <h1>👋 Hi I’m @saskw2010 (This is Mostafa (A) ElNagar) </h1>   
+(Senior Full stack Developer and system architect)/(Machine Learning engineer) /Co-Founder- wytSKY Clouding Solutions
+<h3> I build Full Stack Solutions using a variety of Technologies: </h3>
+</div>
+</div>
   
-  ## Github Stats :
+ ## Github Stats :
+ <div id="header1" align="center">
+  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=saskw2010&count_private=true&show_icons=true)](https://github.com/saskw2010/github-readme-stats)
 
   
@@ -10,9 +25,9 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&layout=compact&theme=radical&langs_count=10&custom_title=MostUsedLanguagesPart2&hide=ASP.NET,Visual%Basic.NET,TypeScript,JavaScript,python,c%23&card_width=600)
 
+  </div>
   
-  
-  <div id="badges">
+  <div id="badges"  align="center">
     
 [![Gmail Badge](https://img.shields.io/badge/-wytsky.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saskw2010@gmail.com)](mailto:saskw2010@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-mostafa.a.elnagar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafa.a.elnagar/)](https://www.linkedin.com/in/mostafa-a-elnagar/)
@@ -20,7 +35,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://wytsky.com/)](https://wytsky.com/)
  
   </div>
-  <div id="badges">
+  <div id="badges"  align="center">
     <a href="https://www.linkedin.com/in/mostafa-a-elnagar" target="_blank">
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -32,25 +47,10 @@
     </a>
   </div>
  
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+ 
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<div align="center">
-   <h1>👋 Hi I’m @saskw2010 (This is Mostafa (A) ElNagar) </h1>   
-(Senior Full stack Developer and system architect)/(Machine Learning engineer) /Co-Founder- wytSKY Clouding Solutions
-<h3> I build Full Stack Solutions using a variety of Technologies: </h3>
-</div>
-<div align="center">
-<h1> I’m Expert Into  </h1>
-</div>
-<div align="center">
-<h1> Programming Languages and Frameworks  </h1>
-</div>
+
+
 
  * Blazor, C# 🔥
  * .NET,.NET Core,VB.NET 💜
