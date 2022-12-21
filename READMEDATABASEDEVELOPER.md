@@ -1,12 +1,17 @@
 it should be READMEdatabasedeveloper.md
 
 <div id="header" align="center">
-  <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="600" height="300"/>
+  <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="300" height="450"/>
   <div align="left">
    <h3>
-For over the past two decades, Mostafa has worked as a database developer and a full-stack .NET developer, primarily focusing on databases. Database development is his strongest suit, including tuning, programming, ETL processes, and more. Mostafa has worked with well-known corporations such as
--Zain Kuwait(MTC)  <img src="https://github.com/saskw2010/saskw2010/blob/main/zainlogo.jpg" width="300" height="150"/> 
--, , Elsevier, and Universal Studios. She is looking for projects that deal with new reporting tools and different databases.
+For over the past two decades, Mostafa has worked as a database developer and a full-stack .NET developer, primarily focusing on databases. Database development is his strongest suit, including tuning, programming, ETL processes, and more. Mostafa has worked with well-known corporations such as:
+     <br/>
+     1- Zain Kuwait(MTC)
+     <br/>
+              <img src="https://github.com/saskw2010/saskw2010/blob/main/zainlogo.jpg" width="300" height="150"/> 
+     <br/>
+2-  Elsevier, and Universal Studios. 
+     She is looking for projects that deal with new reporting tools and different databases. 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h3>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
