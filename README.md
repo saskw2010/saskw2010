@@ -50,9 +50,9 @@
  
 </div>
 
-<br/>
-This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine learning so I can build more complex solutions.
-<br/>
+
+
+<!---
 <div align="center">
 <h1>  More About Me (Mostafa (A) ElNagar)   </h1>
 </div>
@@ -62,6 +62,7 @@ This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine lear
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://saskw2010.github.io/)](https://saskw2010.github.io/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://wytsky.com/)](https://wytsky.com/)
 
+--->
 <div>
   <h3> Ai Optimal Enterprise solutions </h3>
 </div>
@@ -88,7 +89,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Work Featured On :
-<a href="https://www.xda-developers.com/customize-aod-color-miui-11-trinity-substratum-theme/"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/xda%20(2).png" width="50" height="50"></a> <a href="https://beebom.com/download-motorola-razr-retro-app-live-wallpapers-here/"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/bb.png" width="50" height="50"></a> <a href="https://www.bgr.in/news/oneplus-6-mod-turns-the-earpiece-into-second-stereo-speaker-657336/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/bgr.png" width="50" height="50"></a> <a href="https://www.firstpost.com/tech/news-analysis/oneplus-6-mod-may-convert-the-earpiece-speaker-into-an-external-stereo-speaker-4714621.html" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/fp.png" width="50" height="50"></a> 
+<br/>
+This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine learning so I can build more complex solutions.
+<br/>
+
 
 ## Github Badges :
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
