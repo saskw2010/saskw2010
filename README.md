@@ -132,5 +132,8 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://github.com/saskw2010/saskw2010/blob/main/20220223234204.gif"  width="600" height="300"/>
  </div>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saskw2010)
+ 
+ <div id="header" align="center">
+   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saskw2010)
+  </div>
 
