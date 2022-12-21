@@ -140,7 +140,7 @@ This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine lear
   <br/>
   <img src="https://github.com/saskw2010/saskw2010/blob/main/IMG-20220709-WA0034.jpg"  width="600" height="300"/>
   <br/>
-  <img src=" https://github.com/saskw2010/saskw2010/blob/main/WhatsApp%20Image%202022-12-21%20at%209.14.07%20AM.jpeg"  width="600" height="900"/>
+  <img src="https://github.com/saskw2010/saskw2010/blob/main/WhatsApp%20Image%202022-12-21%20at%209.14.07%20AM.jpeg"  width="600" height="900"/>
  
  
  </div>
