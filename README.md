@@ -182,4 +182,5 @@ This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine lear
    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saskw2010)
   
   </div>
+   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saskw2010&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
