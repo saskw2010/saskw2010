@@ -183,4 +183,4 @@ This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine lear
   
   </div>
    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saskw2010&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saskw2010&repo=github-readme-stats)](https://github.com/saskw2010/github-readme-stats)
