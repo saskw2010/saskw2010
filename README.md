@@ -27,15 +27,17 @@ A highly motivated, versatile, and skilled Xamarin Forms expert, Wouter has demo
  Mostafa has worked with well-known corporations such as:
      <br/>
      1- Zain Kuwait(MTC)
-      
       <br/>
-                   <img src="https://github.com/saskw2010/saskw2010/blob/main/zainlogo.jpg" width="300" height="150"/> 
-     <br/>
+   <div id="header" align="center">
+  <img src="https://github.com/saskw2010/saskw2010/blob/main/zainlogo.jpg" width="300" height="150"/> 
+  </div >
+<br/>
 2-  Schlumberger  (SLB) 
-      
-      <br/>
-            <img src="https://github.com/saskw2010/saskw2010/blob/main/slb.png" width="300" height="150"/> 
-     <br/>
+  <br/>
+      <div id="header" align="center">
+  <img src="https://github.com/saskw2010/saskw2010/blob/main/slb.png" width="300" height="150"/>
+  </div >
+ <br/>
    
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
