@@ -18,12 +18,11 @@ Over the past two decades, I have worked as a full-stack  Dot NET developer, I'm
 I have demonstrated expertise in software design and delivery covering large-scale cloud services, mobile apps, and on-premise software. I have a proven ability to identify and drive strategic programs from inception to launch and thrive in collaborative, team-oriented, and ambiguous environments. I'm an expert in analyzing, planning, architect, designing,  and developing software applications and systems that match business needs. I have many experiences to develop customized reporting and business intelligence solutions feeding on corporate solutions in order to assess an organization’s performance operationally and financially .
 
 -Im a Professional programmer in three programming languages
-      
-     <h1> (C#,VB.net,python ) </h1>
-      
+      <h1>
+      (C#,VB.net,python )       
       and I know well several languages that I can deal with there applications
       
-      
+      </h1>
 Proficient in dealing with many frameworks
 I also know many others
 
