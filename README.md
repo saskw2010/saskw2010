@@ -1,13 +1,37 @@
+<div align="center">
+   <h1>👋 Hi There I’m   Mostafa  ElNagar (@saskw2010) </h1>   
+(Senior Full stack Developer and system architect)/(Machine Learning engineer) / Mobile Developer and database developer
+<h3> I build Full Stack Solutions using a variety of Technologies: </h3>
+</div>
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ </div >
+ <h2> hey donot go I have excellent interpersonal skills and am passionate, creative,  dedicated, and more.</h2>
 <div id="header" align="center">
    <img src="https://github.com/saskw2010/saskw2010/blob/main/20220223234204.gif"  width="700" height="450"/>
    <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="300" height="450"/>
   </div >
-   
-  
-  <div align="left">
+   <div align="left">
    <h3>
 Over the past two decades, I have worked as a full-stack  Dot NET developer, I'm highly motivated, versatile,  and Multi-skilled, 
-I have demonstrated expertise in software design and delivery covering large-scale cloud services, mobile apps, and on-premise software. I have a proven ability to identify and drive strategic programs from inception to launch and thrive in collaborative, team-oriented, and ambiguous environments. I have excellent interpersonal skills and am passionate, creative,  dedicated, and more. I'm an expert in analyzing, planning, architect, designing,  and developing software applications and systems that match business needs. I have many experiences to develop customized reporting and business intelligence solutions feeding on corporate solutions in order to assess an organization’s performance operationally and financially 
+I have demonstrated expertise in software design and delivery covering large-scale cloud services, mobile apps, and on-premise software. I have a proven ability to identify and drive strategic programs from inception to launch and thrive in collaborative, team-oriented, and ambiguous environments. I'm an expert in analyzing, planning, architect, designing,  and developing software applications and systems that match business needs. I have many experiences to develop customized reporting and business intelligence solutions feeding on corporate solutions in order to assess an organization’s performance operationally and financially .
+
+-Im a Professional programmer in three programming languages
+      
+     <h1> (C#,VB.net,python ) </h1>
+      
+      and I know well several languages that I can deal with there applications
+      
+      
+Proficient in dealing with many frameworks
+I also know many others
+
+I would like to say that what I know means that I have managed a project or more with this language or framework, and what I am professional means that it is a daily or weekly routine at the very least.
+    I also have multiple experiences in dealing with databases
+Professional, I love dealing with it as my name, I like to update it, and MSSQL talks to me
+Of course, of course, I like that. It is a real pleasure to delve into the data and answer many questions needed by those looking for answers to their questions from the data.
+
+Therefore, I passed Mohra Diploma in a full year as a wonderful Data Syntest between artificial intelligence, databases and mathematics, my love and the mother of science
 
       
       
@@ -43,13 +67,9 @@ I have demonstrated expertise in software design and delivery covering large-sca
   </div >
  <br/>
    
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
 </div>
-<div align="center">
-   <h1>👋 Hi I’m @saskw2010 (This is Mostafa (A) ElNagar) </h1>   
-(Senior Full stack Developer and system architect)/(Machine Learning engineer) /Co-Founder- wytSKY Clouding Solutions
-<h3> I build Full Stack Solutions using a variety of Technologies: </h3>
-</div>
+
 </div>
   
  ## Github Stats :
