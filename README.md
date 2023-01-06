@@ -6,9 +6,9 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
  </div >
- <h2> First Of All  I should to say I have excellent interpersonal skills and am passionate, creative,  dedicated, and more.</h2>
- <h2>sure I'm freindly alawys I'm happy </h2>
- <h1> Donot Forget To  </h1>
+ <h3> First Of All  I should to say I have excellent interpersonal skills and am passionate, creative,  dedicated, and more.</h3>
+ <h3>sure I'm friendly and always need to help others it makes me happy this is my passion do not hesitate to ask me, to hire me, to request help I will be there God bless all of you   </h3>
+ 
 <div id="header" align="center">
    <img src="https://github.com/saskw2010/saskw2010/blob/main/20220223234204.gif"  width="700" height="450"/>
    <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="300" height="450"/>
