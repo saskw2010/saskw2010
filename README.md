@@ -28,17 +28,13 @@ A highly motivated, versatile, and skilled Xamarin Forms expert, Wouter has demo
      <br/>
      1- Zain Kuwait(MTC)
       
-     <br/>
-      
-      
-              <img src="https://github.com/saskw2010/saskw2010/blob/main/zainlogo.jpg" width="300" height="150"/> 
+      <br/>
+                   <img src="https://github.com/saskw2010/saskw2010/blob/main/zainlogo.jpg" width="300" height="150"/> 
      <br/>
 2-  Schlumberger  (SLB) 
       
       <br/>
-      
-      
-              <img src="https://github.com/saskw2010/saskw2010/blob/main/slb.png" width="300" height="150"/> 
+            <img src="https://github.com/saskw2010/saskw2010/blob/main/slb.png" width="300" height="150"/> 
      <br/>
    
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
