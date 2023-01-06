@@ -9,18 +9,19 @@
 A highly motivated, versatile, and skilled Xamarin Forms expert, Wouter has demonstrated expertise in software design and delivery covering large-scale cloud services, mobile apps, and on-premise software. He has proven ability to identify and drive strategic programs from inception to launch and thrives in collaborative, team-oriented, and ambiguous environments. He has excellent interpersonal skills and is passionate, creative,  dedicated, and more.
 
 - ASP.NET
-- .NET WinForms,Windows Service
+- NET WinForms,Windows Service
 - C#,VB.net,python
 - Xamarin,Maui
 - Agile Software
 - Development
 - SQLAzure
 - JavaScript
+- ASP.NET Core
 - Blazor
 - SharePoint
-- Windows     
-      
-      
+- SQL
+- MySQL
+  
       
       
  Mostafa has worked with well-known corporations such as:
