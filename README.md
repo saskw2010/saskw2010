@@ -6,7 +6,7 @@
   
   <div align="left">
    <h3>
-A highly motivated, versatile, and skilled Xamarin Forms expert, Wouter has demonstrated expertise in software design and delivery covering large-scale cloud services, mobile apps, and on-premise software. He has proven ability to identify and drive strategic programs from inception to launch and thrives in collaborative, team-oriented, and ambiguous environments. He has excellent interpersonal skills and is passionate, creative,  dedicated, and more.
+A highly motivated, versatile, and skilled full-stack .NET developer and multi  expert, mostafa has demonstrated expertise in software design and delivery covering large-scale cloud services, mobile apps, and on-premise software. He has proven ability to identify and drive strategic programs from inception to launch and thrives in collaborative, team-oriented, and ambiguous environments. He has excellent interpersonal skills and is passionate, creative,  dedicated, and more.
 
 - ASP.NET
 - NET WinForms,Windows Service
