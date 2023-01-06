@@ -10,8 +10,7 @@
  <h3>sure I'm friendly and always need to help others it makes me happy this is my passion do not hesitate to ask me, to hire me, to request help I will be there God bless all of you   </h3>
  
 <div id="header" align="center">
-   <img src="https://github.com/saskw2010/saskw2010/blob/main/20220223234204.gif"  width="700" height="450"/>
-   <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="300" height="450"/>
+      <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="300" height="450"/>
   </div >
    <div align="left">
    <h3>
@@ -218,5 +217,8 @@ This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine lear
    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saskw2010)
   
   </div>
-   
+   <div id="header" align="center">
+   <img src="https://github.com/saskw2010/saskw2010/blob/main/20220223234204.gif"  width="700" height="450"/>
+   <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="300" height="450"/>
+  </div >
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saskw2010&repo=github-readme-stats)](https://github.com/saskw2010/github-readme-stats)
