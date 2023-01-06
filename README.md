@@ -8,18 +8,17 @@
    <h3>
 A highly motivated, versatile, and skilled Xamarin Forms expert, Wouter has demonstrated expertise in software design and delivery covering large-scale cloud services, mobile apps, and on-premise software. He has proven ability to identify and drive strategic programs from inception to launch and thrives in collaborative, team-oriented, and ambiguous environments. He has excellent interpersonal skills and is passionate, creative,  dedicated, and more.
 
-- Xamarin.Forms
-- .NETWinForms
-- C#
--Xamarin
--Agile Software
--Development
--CTO
--SQLAzure
--Freelance 
+
+- .NET WinForms,Aspx.net
+- C#,VB.net,python
+- Xamarin,Maui
+- Agile Software
+- Development
+- SQLAzure
+- Freelance 
 - ASP.NET
 - JavaScript
-- Spring
+- Blazor
 - SharePoint
 - Windows     
       
@@ -29,11 +28,17 @@ A highly motivated, versatile, and skilled Xamarin Forms expert, Wouter has demo
  Mostafa has worked with well-known corporations such as:
      <br/>
      1- Zain Kuwait(MTC)
+      
      <br/>
+      
+      
               <img src="https://github.com/saskw2010/saskw2010/blob/main/zainlogo.jpg" width="300" height="150"/> 
      <br/>
 2-  Schlumberger  (SLB) 
+      
       <br/>
+      
+      
               <img src="https://github.com/saskw2010/saskw2010/blob/main/slb.png" width="300" height="150"/> 
      <br/>
    
