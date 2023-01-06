@@ -1,13 +1,15 @@
 <div align="center">
-   <h1>👋 Hi There I’m   Mostafa  ElNagar (@saskw2010) </h1>   
-(Senior Full stack Developer and system architect)/(Machine Learning engineer) / Mobile Developer and database developer
-<h3> I build Full Stack Solutions using a variety of Technologies: </h3>
-</div>
+- <h1>👋 Hi There I’m   Mostafa  ElNagar (@saskw2010) </h1> <h3>
+        
+      (Senior Full stack Developer and system architect)/(Machine Learning engineer)
+		( Mobile Developer / database developer)
+	
+</h3></div>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
  </div >
  <h3> First Of All  I should to say I have excellent interpersonal skills and am passionate, creative,  dedicated, and more.</h3>
- <h3>sure I'm friendly and always need to help others it makes me happy this is my passion do not hesitate to ask me, to hire me, to request help I will be there God bless all of you   </h3>
+ <h3>Sure I'm friendly and always need to help others it makes me happy this is my passion do not hesitate to ask me, to hire me, to request help I will be there God bless all of you   </h3>
  
 <div id="header" align="center">
       <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="300" height="450"/>
@@ -17,49 +19,63 @@
 Over the past two decades, I have worked as a full-stack  Dot NET developer, I'm highly motivated, versatile,  and Multi-skilled, 
 I have demonstrated expertise in software design and delivery covering large-scale cloud services, mobile apps, and on-premise software. I have a proven ability to identify and drive strategic programs from inception to launch and thrive in collaborative, team-oriented, and ambiguous environments. I'm an expert in analyzing, planning, architect, designing,  and developing software applications and systems that match business needs. I have many experiences to develop customized reporting and business intelligence solutions feeding on corporate solutions in order to assess an organization’s performance operationally and financially .
 
--Im a Professional programmer in three programming languages
-      <h1>
-      (C#,VB.net,python )       
-      and I know well several languages that I can deal with there applications
-      
-      </h1>
-Proficient in dealing with many frameworks
-I also know many others
-
-I would like to say that what I know means that I have managed a project or more with this language or framework, and what I am professional means that it is a daily or weekly routine at the very least.
-    I also have multiple experiences in dealing with databases
-Professional, I love dealing with it as my name, I like to update it, and MSSQL talks to me
-Of course, of course, I like that. It is a real pleasure to delve into the data and answer many questions needed by those looking for answers to their questions from the data.
-
-Therefore, I passed Mohra Diploma in a full year as a wonderful Data Syntest between artificial intelligence, databases and mathematics, my love and the mother of science
-
-      
-      
-
-- ASP.NET
-- NET WinForms,Windows Service
-- C#,VB.net,python
-- Xamarin,Maui
-- Agile Software
-- Development
-- SQLAzure
-- JavaScript
-- ASP.NET Core
-- Blazor
-- SharePoint
-- SQL
-- MySQL
-  
-      
-      
- Mostafa has worked with well-known corporations such as:
-     <br/>
-     1- Zain Kuwait(MTC)
-      <br/>
-   <div id="header" align="center">
-  <img src="https://github.com/saskw2010/saskw2010/blob/main/zainlogo.jpg" width="300" height="150"/> 
-  </div >
+<h1>(I build Full Stack Solutions using a variety of Technologies  ⚡)</h1><h2>
+         
+      -  Technologies
+ 		* Blazor, C# 🔥
+ 		* .NET,.NET Core,VB.NET 💜
+		* MAUI 🔥🤖
+		* React 💻 , Angular 🌐
+ 		* Xamarin 📱
+ 		* Python 🐍
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+		- Proficient in  (C# - VB.net - python - CSS -Javascript)    
+		- ASP.NET
+		- NET WinForms,Windows Service
+		- Xamarin,Blazor,Maui
+		- Agile Software Methodolgy and Project Managment 
+		- Development Lisfe Cycle (SDLC)
+		- JavaScript,typescript
+		- ASP.NET Core
+		- SharePoint  
+		- SQL
+		- MySQL
+		- SQLAzure
+		- Knowing well (php,c++,java)
+		- Knowing well (AWS,Azure,Google Cloud Services )
+		- Knowing well (Sharepoint,Microsoft365,Active Directory (administration))
+		- Knowing well (React,angular,flutter,wordpress(deplyment and integration))
+		- Knowing well (Clustring,Loadbalance,Virtualization,VMware,hyper-V)
+			
+</h2>
+ I have worked with well-known corporations such as:
 <br/>
+1- Zain Kuwait(MTC)
+      <br/>
+   	<div id="header" align="center">
+  		<img src="https://github.com/saskw2010/saskw2010/blob/main/zainlogo.jpg" width="300" height="150"/> 
+ 		 </div >
+		<br/>
 2-  Schlumberger  (SLB) 
   <br/>
       <div id="header" align="center">
@@ -131,7 +147,6 @@ Therefore, I passed Mohra Diploma in a full year as a wonderful Data Syntest bet
 </div>
 <br/>
 
-- 👀 I’m interested in c#,DotNet,Xamarin,Blazor,Maui,DotNet Core ,Machine learning,python,VB.net,API,Windows Services...
 - 🌱 I’m currently learning Build Ai APP applied NLP and Documents managment with Machine Learning ...
 - 💞️ I’m looking to collaborate on Applied Machine Learning ON ERP Solutions...
 - 📫 How to reach me ...
@@ -163,38 +178,6 @@ This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine lear
 ## Github Badges :
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
-
-
-
-
-## ⚡ Technologies
- * Blazor, C# 🔥
- * .NET,.NET Core,VB.NET 💜
- * MAUI 🔥🤖
- * React 💻 , Angular 🌐
- * Xamarin 📱
- * Python 🐍
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=saskw2010&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saskw2010&hide=TeX&layout=compact)
