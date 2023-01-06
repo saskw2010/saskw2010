@@ -6,7 +6,11 @@
   
   <div align="left">
    <h3>
-A highly motivated, versatile, and skilled full-stack .NET developer and multi  expert, mostafa has demonstrated expertise in software design and delivery covering large-scale cloud services, mobile apps, and on-premise software. He has proven ability to identify and drive strategic programs from inception to launch and thrives in collaborative, team-oriented, and ambiguous environments. He has excellent interpersonal skills and is passionate, creative,  dedicated, and more.
+Over the past two decades, I have worked as a full-stack  Dot NET developer, I'm highly motivated, versatile,  and Multi-skilled, 
+I have demonstrated expertise in software design and delivery covering large-scale cloud services, mobile apps, and on-premise software. I have a proven ability to identify and drive strategic programs from inception to launch and thrive in collaborative, team-oriented, and ambiguous environments. I have excellent interpersonal skills and am passionate, creative,  dedicated, and more. I'm an expert in analyzing, planning, architect, designing,  and developing software applications and systems that match business needs. I have many experiences to develop customized reporting and business intelligence solutions feeding on corporate solutions in order to assess an organization’s performance operationally and financially 
+
+      
+      
 
 - ASP.NET
 - NET WinForms,Windows Service
