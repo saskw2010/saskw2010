@@ -21,7 +21,7 @@ I have demonstrated expertise in software design and delivery covering large-sca
 
 <h1>(I build Full Stack Solutions using a variety of Technologies  ⚡)</h1><h2>
          
-      		- C# - VB.net -  CSS -Javascript 🔥💜
+		- C# - VB.net -  CSS -Javascript 🔥💜
  		- Blazor,Wasm  💜
 	   	- .NET,.NET Core 💜
 		- MAUI 🔥
