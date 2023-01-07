@@ -1,0 +1,24 @@
+﻿{
+"appName": "SkyHMS",
+"splash":{
+"enabled":true,
+"logo":"/images/skylogo.png",
+"background":"/images/login-background.jpg",
+"duration":2500
+},
+  "ui": {
+    "menu": {
+      "location": "toolbar",
+      "apps": {
+        "location": "toolbar"
+      }
+    },
+    "sidebar":
+	{
+	 
+    "toolbar": true
+    }
+  }
+  
+ 
+}
