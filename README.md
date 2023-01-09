@@ -6,11 +6,42 @@
 
 </h3></div>
 
+```mermaid
 	graph TD;
-  	 	A[Senior_Full_stack_Developer_and_system_architect]-->B[Machine_Learning_Engineer];
+  	 	A[Senior_Full_stack_Developer_and_system_architect]-->B[Mobile_Developer];
    	 	A-->C[Database_Developer];
-	 	B-->D[Mobile_Developer];
+	 	B-->D[Machine_Learning_Engineer];
 	 	C-->D;
+```
+
+```mermaid
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
+
+```mermaid
+mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        British popular psychology author Tony Buzan
+    Research
+      On effectiveness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
+```
 
 
 
