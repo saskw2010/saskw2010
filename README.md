@@ -3,14 +3,18 @@
         
       (Senior Full stack Developer and system architect)/(Machine Learning engineer)
 		( Mobile Developer / Database developer)
-graph TD;
-    Senior_Full_stack_Developer_and_system_architect-->Machine_Learning_Engineer;
-    Senior_Full_stack_Developer_and_system_architect-->Database_Developer;
-    Machine_Learning_Engineer-->Mobile_Developer;
-    Database_Developer-->Mobile_Developer;
 
-	
 </h3></div>
+
+	graph TD;
+  	 	A[Senior_Full_stack_Developer_and_system_architect]-->B[Machine_Learning_Engineer];
+   	 	A-->C[Database_Developer];
+	 	B-->D[Mobile_Developer];
+	 	C-->D;
+
+
+
+
 <div id="header" align="center">
 	
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -110,9 +114,6 @@ I have demonstrated expertise in software design and delivery covering large-sca
 
 
 <!---
-###
-###marp :true
-###
 
 
 <div align="center">
