@@ -22,6 +22,7 @@ B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
+
 ```mermaid
 graph TD
     A[Christmas] -->|Get money| B(Go shopping)
@@ -31,6 +32,34 @@ graph TD
     C -->|Three| F[fa:fa-car Car]
 ```
 
+```mermaid   
+classDiagram
+    Animal <|-- Duck
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+      +String beakColor
+      +swim()
+      +quack()
+    }
+    class Fish{
+      -int sizeInFeet
+      -canEat()
+    }
+    class Zebra{
+      +bool is_wild
+      +run()
+    }
+```
+
+
+
+
+  
 <div id="header" align="center">
 	
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
