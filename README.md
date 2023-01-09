@@ -182,22 +182,20 @@ This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine lear
   
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saskw2010&repo=github-readme-stats)](https://github.com/saskw2010/github-readme-stats)
+		A senior full stack developer
+On the other hand, is a software developer with a high level of expertise in both front-end and back-end development, as well as a strong understanding of the overall architecture of a software system. A full stack developer is typically proficient in a wide range of technologies and programming languages, including web development frameworks, database systems, and front-end libraries.
+		A system architect
+On the other hand, is a software engineer who is responsible for the design and overall structure of a software system. A system architect typically has a broad understanding of the various components and technologies that make up a system, and is able to design and plan the overall architecture to meet the needs and requirements of the system.
+		A machine learning engineer
+On the other hand,is a software engineer who specializes in building and deploying machine learning models. This involves working with data scientists to understand the requirements and goals of the machine learning project, and then designing and implementing the necessary software infrastructure to train, evaluate, and deploy the machine learning models.
+		A mobile developer
+On the other hand,is a software developer who specializes in building mobile applications for smartphones and other handheld devices. This typically involves using mobile development frameworks such as Xamarin or React Native, and being proficient in programming languages such as Swift for iOS or Java for Android.
+		A database developer
+On the other hand,is a software developer who specializes in building and maintaining database systems. This typically involves working with database technologies such as SQL Server or Oracle, and being proficient in SQL and database design.
 
+	
 
-
-
-A senior full stack developer is a software developer with a high level of expertise in both front-end and back-end development, as well as a strong understanding of the overall architecture of a software system. A full stack developer is typically proficient in a wide range of technologies and programming languages, including web development frameworks, database systems, and front-end libraries.
-
-A system architect, on the other hand, is a software engineer who is responsible for the design and overall structure of a software system. A system architect typically has a broad understanding of the various components and technologies that make up a system, and is able to design and plan the overall architecture to meet the needs and requirements of the system.
-
-A machine learning engineer is a software engineer who specializes in building and deploying machine learning models. This involves working with data scientists to understand the requirements and goals of the machine learning project, and then designing and implementing the necessary software infrastructure to train, evaluate, and deploy the machine learning models.
-
-A mobile developer is a software developer who specializes in building mobile applications for smartphones and other handheld devices. This typically involves using mobile development frameworks such as Xamarin or React Native, and being proficient in programming languages such as Swift for iOS or Java for Android.
-
-A database developer is a software developer who specializes in building and maintaining database systems. This typically involves working with database technologies such as SQL Server or Oracle, and being proficient in SQL and database design.
-
-
-Tasks, Duties and Responsibilities (TDR):
+		Tasks, Duties and Responsibilities (TDR):
 
 Modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.
 Design or develop software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design.
@@ -206,18 +204,20 @@ Apply apposite SDLC methodology according to business domain and priorities, use
 Consult with team members to evaluate interface between hardware and software, develop specifications and performance requirements, or resolve customer problems.
 Convert instructions into computer languages.
 Formulate and conduct extensive test plans to ensure system reliability and conformity.
-Develop ASP.NET (Web Forms &amp; MVC) ERP applications, leveraging ADO.NET Entity
+Develop ASP.NET (Web Forms and  MVC) ERP applications, leveraging ADO.NET Entity
 Framework where applicable, for group subsidiaries to manage operational activities and explore business opportunities.
 Develop a SharePoint intranet portal to serve the organization as a center of information and business process platform across BIG and subsidiaries.
 Develop self-contained SSRS (SQL Server Reporting Solution) projects to be integrated into
-SharePoint &amp; ERP applications as a business intelligence dashboard in order to assess company performance operationally and financially.
+SharePoint ; ERP applications as a business intelligence dashboard in order to assess company performance operationally and financially.
 Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.
 Develop or direct software system testing or validation procedures.
 Direct software programming and development of documentation.
 Develop different types of software, including business applications and middleware.
 Apply knowledge of computing systems and software structure.
 Create flowcharts, diagrams, and other documentation.
-Skills
+
+	
+		Skills
 
 Good familiarity with continuous integration.
 Knowledge of server architecture and deployment of applications on a server infrastructure.
