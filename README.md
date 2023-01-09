@@ -11,9 +11,7 @@
  <h3> First Of All  I should to say I have excellent interpersonal skills and am passionate, creative,  dedicated, and more.</h3>
  <h3>Sure I'm friendly and always need to help others it makes me happy this is my passion do not hesitate to ask me, to hire me, to request help I will be there God bless all of you   </h3>
  
-<div id="header" align="center">
-      <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="300" height="450"/>
-  </div >
+
    <div align="left">
    <h3>
 Over the past two decades, I have worked as a full-stack  Dot NET developer, I'm highly motivated, versatile,  and Multi-skilled, 
