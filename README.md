@@ -182,15 +182,25 @@ This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine lear
   
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saskw2010&repo=github-readme-stats)](https://github.com/saskw2010/github-readme-stats)
+		
 		A senior full stack developer
+	
 On the other hand, is a software developer with a high level of expertise in both front-end and back-end development, as well as a strong understanding of the overall architecture of a software system. A full stack developer is typically proficient in a wide range of technologies and programming languages, including web development frameworks, database systems, and front-end libraries.
+		
 		A system architect
+	
 On the other hand, is a software engineer who is responsible for the design and overall structure of a software system. A system architect typically has a broad understanding of the various components and technologies that make up a system, and is able to design and plan the overall architecture to meet the needs and requirements of the system.
+		
 		A machine learning engineer
+	
 On the other hand,is a software engineer who specializes in building and deploying machine learning models. This involves working with data scientists to understand the requirements and goals of the machine learning project, and then designing and implementing the necessary software infrastructure to train, evaluate, and deploy the machine learning models.
+		
 		A mobile developer
+	
 On the other hand,is a software developer who specializes in building mobile applications for smartphones and other handheld devices. This typically involves using mobile development frameworks such as Xamarin or React Native, and being proficient in programming languages such as Swift for iOS or Java for Android.
+		
 		A database developer
+	
 On the other hand,is a software developer who specializes in building and maintaining database systems. This typically involves working with database technologies such as SQL Server or Oracle, and being proficient in SQL and database design.
 
 	
