@@ -2,10 +2,17 @@
 - <h1>👋 Hi There I’m   Mostafa  ElNagar (@saskw2010) </h1> <h3>
         
       (Senior Full stack Developer and system architect)/(Machine Learning engineer)
-		( Mobile Developer / database developer)
+		( Mobile Developer / Database developer)
+graph TD;
+    Senior_Full_stack_Developer_and_system_architect-->Machine_Learning_Engineer;
+    Senior_Full_stack_Developer_and_system_architect-->Database_Developer;
+    Machine_Learning_Engineer-->Mobile_Developer;
+    Database_Developer-->Mobile_Developer;
+
 	
 </h3></div>
 <div id="header" align="center">
+	
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
  </div >
  <h3> First Of All  I should to say I have excellent interpersonal skills and am passionate, creative,  dedicated, and more.</h3>
