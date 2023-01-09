@@ -195,3 +195,47 @@ A machine learning engineer is a software engineer who specializes in building a
 A mobile developer is a software developer who specializes in building mobile applications for smartphones and other handheld devices. This typically involves using mobile development frameworks such as Xamarin or React Native, and being proficient in programming languages such as Swift for iOS or Java for Android.
 
 A database developer is a software developer who specializes in building and maintaining database systems. This typically involves working with database technologies such as SQL Server or Oracle, and being proficient in SQL and database design.
+
+
+Tasks, Duties and Responsibilities (TDR):
+
+Modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.
+Design or develop software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design.
+Participate in all phases of software/systems development life cycle (SDLC)
+Apply apposite SDLC methodology according to business domain and priorities, user and business requirements, technology constraints and software architecture, team skillset, and project scope.
+Consult with team members to evaluate interface between hardware and software, develop specifications and performance requirements, or resolve customer problems.
+Convert instructions into computer languages.
+Formulate and conduct extensive test plans to ensure system reliability and conformity.
+Develop ASP.NET (Web Forms &amp; MVC) ERP applications, leveraging ADO.NET Entity
+Framework where applicable, for group subsidiaries to manage operational activities and explore business opportunities.
+Develop a SharePoint intranet portal to serve the organization as a center of information and business process platform across BIG and subsidiaries.
+Develop self-contained SSRS (SQL Server Reporting Solution) projects to be integrated into
+SharePoint &amp; ERP applications as a business intelligence dashboard in order to assess company performance operationally and financially.
+Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.
+Develop or direct software system testing or validation procedures.
+Direct software programming and development of documentation.
+Develop different types of software, including business applications and middleware.
+Apply knowledge of computing systems and software structure.
+Create flowcharts, diagrams, and other documentation.
+Skills
+
+Good familiarity with continuous integration.
+Knowledge of server architecture and deployment of applications on a server infrastructure.
+Working knowledge of the application design and development processes, methodologies and their direct implementation to applications projects.
+Knowledge of object-oriented principles as applied to software development.
+Strong programming, code development, code debugging and testing skills.
+Strong troubleshooting skills and experience with numerous operating systems,
+development environments, programming languages and architectures.
+Experience in developing and executing a software implementation plan.
+Strong knowledge and experience with SQL and software interaction with databases such as
+MS SQL server.
+Working knowledge of designing integration system.
+Excellent ability to understand and express complex topics.
+Bachelor’s Degree in Computer Science or related area is required
+3+ years’ experience in web and software development
+Demonstrated knowledge of web technologies, such as HTML,ASP.Net, CSS and JavaScript
+Ability to learn new languages and technologies
+Excellent communication skills
+Resourcefulness and troubleshooting aptitude
+Attention to detail
+Ability to Work Independently and Within Groups
