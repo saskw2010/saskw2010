@@ -5,23 +5,13 @@
 
 </h3></div>
 
-```mermaid
-	graph TD;
-  	 	A[Senior Full stack Developer-Software Architecture]-->B[Mobile Developer];
-   	 	B-->C[Database developer];
-	 	C-->D[Machine Learning engineer];
-	 	D-->E[System Architecture];
-		E-->F[I'm  All Of Them ];
-		
-```
-
-
-
 ```mermaid   
 classDiagram
-    Mostafa_Elnagar <|-- Senior_Full_stack_Developer_Software_Architecture
-    Mostafa_Elnagar <|-- Mobile_Developer
-    Mostafa_Elnagar <|-- Zebra
+    Mostafa_Elnagar --|> Senior_Full_stack_Developer_Software_Architecture
+    Mostafa_Elnagar --|> Mobile_Developer
+    Mostafa_Elnagar --|> Database_Developer
+    Mostafa_Elnagar --|> Machine_Learning_engineer
+    Mostafa_Elnagar --|> System_Architecture
     Mostafa_Elnagar : +int age
     Mostafa_Elnagar : +String gender
     Mostafa_Elnagar: +isMammal()
@@ -35,7 +25,15 @@ classDiagram
       -int sizeInFeet
       -canEat()
     }
-    class Zebra{
+    class Database_Developer{
+      +bool is_wild
+      +run()
+    }
+    class Machine_Learning_engineer{
+      +bool is_wild
+      +run()
+    }
+    class System_Architecture{
       +bool is_wild
       +run()
     }
@@ -218,8 +216,20 @@ This last 3 years I'm learning more about Ai, DevOps,AWS and Azure  Machine lear
    <img src="https://github.com/saskw2010/saskw2010/blob/main/Mossologoc.jpg"  width="300" height="450"/>
   </div >
   
+```mermaid
+	graph TD;
+  	 	A[Senior Full stack Developer-Software Architecture]-->B[Mobile Developer];
+   	 	B-->C[Database Developer];
+	 	C-->D[Machine Learning engineer];
+	 	D-->E[System Architecture];
+		E-->F[I'm  All Of Them ];
+		
+```
+
+
+
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saskw2010&repo=github-readme-stats)](https://github.com/saskw2010/github-readme-stats)
+
 		
 		A senior full stack developer
 	
