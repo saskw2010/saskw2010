@@ -18,7 +18,7 @@
 ```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
+A[Senior Full stack Developer-Software Architecture] -->|Text| B(Mobile Developer)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
