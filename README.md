@@ -15,23 +15,7 @@
 		
 ```
 
-```mermaid
-flowchart LR
 
-A[Senior Full stack Developer-Software Architecture] -->|C#,python,javascript,c++| B(Mobile Developer)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-```mermaid
-graph TD
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
-```
 
 ```mermaid   
 classDiagram
@@ -303,3 +287,21 @@ Excellent communication skills
 Resourcefulness and troubleshooting aptitude
 Attention to detail
 Ability to Work Independently and Within Groups
+	
+	```mermaid
+flowchart LR
+
+A[Senior Full stack Developer-Software Architecture] -->|C#,python,javascript,c++| B(Mobile Developer)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
+
+```mermaid
+graph TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```
