@@ -7,7 +7,7 @@
 
 ```mermaid
 	graph TD;
-  	 	A[Senior Full stack Developer-Software Architecture] |2005|-->B[Mobile Developer];
+  	 	A[Senior Full stack Developer-Software Architecture]--> |2005| B[Mobile Developer];
    	 	B-->C[Database developer];
 	 	C-->D[Machine Learning engineer];
 	 	D-->E[System Architecture];
