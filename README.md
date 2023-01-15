@@ -19,19 +19,19 @@
 
 ```mermaid   
 classDiagram
-    Animal <|-- Duck
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
-    class Duck{
+    Mostafa_Elnagar <|-- Senior_Full_stack_Developer_Software_Architecture
+    Mostafa_Elnagar <|-- Mobile_Developer
+    Mostafa_Elnagar <|-- Zebra
+    Mostafa_Elnagar : +int age
+    Mostafa_Elnagar : +String gender
+    Mostafa_Elnagar: +isMammal()
+    Mostafa_Elnagar: +mate()
+    class Senior_Full_stack_Developer_Software_Architecture{
       +String beakColor
       +swim()
       +quack()
     }
-    class Fish{
+    class Mobile_Developer{
       -int sizeInFeet
       -canEat()
     }
