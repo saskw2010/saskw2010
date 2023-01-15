@@ -8,9 +8,11 @@
 ```mermaid
 	graph TD;
   	 	A[Senior Full stack Developer-Software Architecture]-->B[Mobile Developer];
-   	 	A-->C[Database developer];
-	 	B-->D[Machine Learning engineer];
-	 	C-->D;
+   	 	B-->C[Database developer];
+	 	C-->D[Machine Learning engineer];
+	 	D-->E[System Architecture];
+		E-->A;
+		
 ```
 
 ```mermaid
