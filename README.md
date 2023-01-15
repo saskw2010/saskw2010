@@ -12,10 +12,11 @@ classDiagram
     Mostafa_Elnagar --|> Database_Developer
     Mostafa_Elnagar --|> Machine_Learning_engineer
     Mostafa_Elnagar --|> System_Architecture
-    Mostafa_Elnagar : +int age
-    Mostafa_Elnagar : +String gender
-    Mostafa_Elnagar: +isMammal()
-    Mostafa_Elnagar: +mate()
+    Mostafa_Elnagar : 3- POSTGRADUATE CERTIFICATION PROGRAM IN Data Science and Machine Learning
+    Mostafa_Elnagar : 4- PMP-ITIL4-PHRi-ERP
+    Mostafa_Elnagar : 1- Bachelor of Engineering(Electrical,Electronics and Communications Engineering)
+    Mostafa_Elnagar : 2- Master of Computer Applications (Computer Engineering and Automatic Control)
+
     class Senior_Full_stack_Developer_Software_Architecture{
       +String beakColor
       +swim()
