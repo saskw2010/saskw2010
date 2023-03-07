@@ -1,8 +1,9 @@
 <div align="center">
 - <h1>👋 Hi There I’m   Mostafa  ElNagar (@saskw2010) </h1> <h3>
         
-     	 (Senior Full stack Developer-Software Architecture/Mobile Developer)
-	 (Database developer/Machine Learning engineer/System Architecture)
+(Senior SharePoint and Full stack Developer)(Software/System Architecture)(Mobile Developer) 
+(Database developer)(Machine Learning engineer)(Cloud engineer/ Infrastructure Architecture)
+
 
 </h3></div>
 
