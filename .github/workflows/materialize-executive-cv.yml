@@ -1,0 +1,44 @@
+name: Materialize Executive CV
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'assets/.cv-parts/**'
+      - '.github/workflows/materialize-executive-cv.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-cv:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the published profile
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Rebuild PDF from verified source chunks
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p assets
+          cat assets/.cv-parts/part*.b64 | tr -d '\n\r ' | base64 --decode > assets/Mostafa-ElNagar-Executive-Profile.pdf
+          test "$(stat -c%s assets/Mostafa-ElNagar-Executive-Profile.pdf)" -eq 77995
+          echo "2193d98e1911130cf3978c30dee60e4be12a216296a2676235be9ebfcd61750f  assets/Mostafa-ElNagar-Executive-Profile.pdf" | sha256sum --check
+
+      - name: Commit the PDF and remove temporary chunks
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf assets/.cv-parts
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Add executive profile PDF"
+          git push origin HEAD:main

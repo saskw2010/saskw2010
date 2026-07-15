@@ -1,0 +1,1 @@
+This directory contains the temporary publication workflow used to verify and materialize the downloadable executive profile PDF. The workflow is retained as a reproducible integrity check for future CV updates.
