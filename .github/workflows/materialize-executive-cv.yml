@@ -1,5 +1,6 @@
 name: Materialize Executive CV
 
+# Rebuild the uploaded executive profile as a verified binary asset.
 on:
   push:
     branches:
