@@ -55,9 +55,9 @@ Over the past two decades, I have designed and delivered software architectures 
 ```
 Full Stack & Technologies Built:
 - C# | VB.NET | CSS | JavaScript | TypeScript 🔥💜
-- Blazor Server | Blazor WebAssembly (WASM) 💜
+- Blazor Server | Blazor WebAssembly (WASM) | .NET MAUI Hybrid 💜
 - .NET 8 | .NET Core | ASP.NET MVC & WebForms 💜
-- MAUI 🔥 | Xamarin 📱 | Flutter
+- MAUI 🔥 | Xamarin 📱 | Flutter | iOS & Android Native SDKs
 - Python 🐍 | PyTorch | LangChain | DeepSeek LLMs
 - Windows Services | Microservices | REST APIs
 - Agile Methodology & SDLC Leadership
@@ -85,11 +85,16 @@ Full Stack & Technologies Built:
 |---|---|---|---|
 | 🤖 **AI & Local LLM** | 🤖 [`gradio-deepseek-chatbot`](https://github.com/saskw2010/gradio-deepseek-chatbot) | Local DeepSeek LLM + LangChain + Gradio Docker Container | **Public** 🌐 |
 | 🗄️ **Modern SQL** | 🚀 [`Modern_SQL_Server_AI_Master_Guide`](https://github.com/saskw2010/Modern_SQL_Server_AI_Master_Guide) | SQL Server 2025 AI Vector Search, Graph Tables & Ledger | **Public** 🌐 |
+| 📜 **Fatwa Workflow** | 📜 [`fatwa-workflow`](https://github.com/saskw2010/fatwa-workflow) | Enterprise Fatwa Workflow Platform with AI Vector Search & Ledger | **Public** 🌐 |
+| 🤖 **n8n Automation** | 🤖 [`n8n_AI_Automation_Workflows`](https://github.com/saskw2010/n8n_AI_Automation_Workflows) | n8n Workflows with Google Vision OCR & Gemini LLM Pipelines | **Public** 🌐 |
+| 📱 **MAUI Hybrid** | 📱 [`Blazor_MAUI_Hybrid_Mobile_App`](https://github.com/saskw2010/Blazor_MAUI_Hybrid_Mobile_App) | Hybrid Blazor UI + .NET MAUI Native Cross-Platform App | **Public** 🌐 |
 | 📈 **AWS Big Data** | 📊 [`AWS_Ecommerce_Analytics_Platform`](https://github.com/saskw2010/AWS_Ecommerce_Analytics_Platform) | AWS Kinesis + PySpark + Glue + Redshift Analytics | **Public** 🌐 |
 | 🔮 **AI & NLP** | 🔤 [`NLP_Text_Classification_Engine`](https://github.com/saskw2010/NLP_Text_Classification_Engine) | Modular Python Text Classification & Sentiment Analysis | **Public** 🌐 |
 | 🔮 **AI & NLU** | 💬 [`Rasa_NLU_Conversational_AI`](https://github.com/saskw2010/Rasa_NLU_Conversational_AI) | Rasa NLU Intent Recognition & Dialogue Engine | **Public** 🌐 |
 | 🌐 **Blazor SPA** | 🎫 [`Blazor_Enterprise_HelpDesk`](https://github.com/saskw2010/Blazor_Enterprise_HelpDesk) | IT Incident Ticket Management with Radzen UI | **Public** 🌐 |
 | 🌐 **Blazor WASM** | 💼 [`Blazor_CRM_Wasm_System`](https://github.com/saskw2010/Blazor_CRM_Wasm_System) | Single Page App CRM & Sales Pipeline Tracker | **Public** 🌐 |
+| 🥗 **Public Health** | 🥗 [`Food_Authority_Compliance_Platform`](https://github.com/saskw2010/Food_Authority_Compliance_Platform) | Kuwait Public Authority for Food Safety Compliance Repo | **Private** 🔒 |
+| 📱 **Mobile Store** | 🛒 [`WytSky_Store_Mobile_App`](https://github.com/saskw2010/WytSky_Store_Mobile_App) | .NET MAUI / Xamarin Retail Mobile App with Knet Payment | **Private** 🔒 |
 | 🛢️ **PowerBI & ERP** | 📊 [`KDC_OilGas_Rig_Operational_Analytics`](https://github.com/saskw2010/KDC_OilGas_Rig_Operational_Analytics) | KDC Rig Moves, NPT Downtime & PowerBI DAX Platform | **Private** 🔒 |
 | 🛒 **Retail POS** | 🛒 [`WytSky_POS`](https://github.com/saskw2010/WytSky_POS) | Restaurant & Store POS with Barcode & Thermal Print | **Private** 🔒 |
 | 💳 **FinTech** | 💳 [`WytSky_Knet_Gateway`](https://github.com/saskw2010/WytSky_Knet_Gateway) | Kuwait Knet Payment Gateway C# SDK (.NET 4.8 / iPayPipe) | **Private** 🔒 |
