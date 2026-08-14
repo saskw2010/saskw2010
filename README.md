@@ -83,6 +83,7 @@ Full Stack & Technologies Built:
 
 | Category | Repository / Project | Architecture & Highlights | Visibility |
 |---|---|---|---|
+| 🌌 **Multi-Agent RAG** | 🌌 [`AI_Agents_Concept_Graph`](./AI_Agents_Concept_Graph/README.md) | 35 Autonomous AI Agents, Obsidian Concept Graph & Gemini 3.6 Engine | **Public** 🌐 |
 | 🤖 **AI & Local LLM** | 🤖 [`gradio-deepseek-chatbot`](https://github.com/saskw2010/gradio-deepseek-chatbot) | Local DeepSeek LLM + LangChain + Gradio Docker Container | **Public** 🌐 |
 | 🗄️ **Modern SQL** | 🚀 [`Modern_SQL_Server_AI_Master_Guide`](https://github.com/saskw2010/Modern_SQL_Server_AI_Master_Guide) | SQL Server 2025 AI Vector Search, Graph Tables & Ledger | **Public** 🌐 |
 | 📜 **Fatwa Workflow** | 📜 [`fatwa-workflow`](https://github.com/saskw2010/fatwa-workflow) | Enterprise Fatwa Workflow Platform with AI Vector Search & Ledger | **Public** 🌐 |
