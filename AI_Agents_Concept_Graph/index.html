@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>منظومة الـ 35 وكيل ذكاء اصطناعي | Concept Graph & Obsidian Dashboard</title>
+    <!-- Google Fonts & Font Awesome Icons -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        :root {
+            --bg-dark: #090d16;
+            --panel-bg: rgba(15, 23, 42, 0.75);
+            --panel-border: rgba(255, 255, 255, 0.12);
+            --accent-cyan: #06b6d4;
+            --accent-purple: #a855f7;
+            --accent-green: #10b981;
+            --accent-orange: #f97316;
+            --accent-red: #ef4444;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --font-family: 'Tajawal', 'Outfit', sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            user-select: none;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-primary);
+            font-family: var(--font-family);
+            overflow: hidden;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Background Animated Glows */
+        .bg-glow-1 {
+            position: absolute;
+            top: -10%;
+            right: -10%;
+            width: 500px;
+            height: 500px;
+            background: radial-gradient(circle, rgba(168, 85, 247, 0.15) 0%, rgba(0,0,0,0) 70%);
+            border-radius: 50%;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .bg-glow-2 {
+            position: absolute;
+            bottom: -10%;
+            left: -10%;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(6, 182, 212, 0.15) 0%, rgba(0,0,0,0) 70%);
+            border-radius: 50%;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* Top Header Navigation */
+        header {
+            height: 70px;
+            background: rgba(11, 17, 32, 0.85);
+            backdrop-filter: blur(16px);
+            border-bottom: 1px solid var(--panel-border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 24px;
+            z-index: 10;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .brand-logo {
+            width: 42px;
+            height: 42px;
+            background: linear-gradient(135deg, var(--accent-cyan), var(--accent-purple));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            color: white;
+            box-shadow: 0 0 20px rgba(6, 182, 212, 0.4);
+        }
+
+        .brand-text h1 {
+            font-size: 18px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            background: linear-gradient(90deg, #ffffff, #cbd5e1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .brand-text p {
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+
+        .header-stats {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .stat-badge {
+            background: rgba(30, 41, 59, 0.6);
+            border: 1px solid var(--panel-border);
+            padding: 6px 14px;
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 13px;
+        }
+
+        .stat-badge i {
+            color: var(--accent-cyan);
+        }
+
+        .pulse-dot {
+            width: 8px;
+            height: 8px;
+            background-color: var(--accent-green);
+            border-radius: 50%;
+            box-shadow: 0 0 10px var(--accent-green);
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
+            70% { transform: scale(1); box-shadow: 0 0 0 10px rgba(16, 185, 129, 0); }
+            100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+        }
+
+        /* Main View Container */
+        .main-container {
+            flex: 1;
+            display: flex;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Graph Canvas Wrapper */
+        .canvas-wrapper {
+            flex: 1;
+            position: relative;
+            height: calc(100vh - 70px);
+        }
+
+        canvas#graphCanvas {
+            width: 100%;
+            height: 100%;
+            display: block;
+            cursor: grab;
+        }
+
+        canvas#graphCanvas:active {
+            cursor: grabbing;
+        }
+
+        /* Sidebar Inspector Panel */
+        .inspector-panel {
+            width: 380px;
+            background: var(--panel-bg);
+            backdrop-filter: blur(20px);
+            border-right: 1px solid var(--panel-border);
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+            gap: 16px;
+            overflow-y: auto;
+            z-index: 5;
+        }
+
+        .panel-card {
+            background: rgba(30, 41, 59, 0.5);
+            border: 1px solid var(--panel-border);
+            border-radius: 16px;
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            transition: all 0.3s ease;
+        }
+
+        .panel-card:hover {
+            border-color: rgba(6, 182, 212, 0.4);
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            padding-bottom: 10px;
+        }
+
+        .card-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--accent-cyan);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .filter-btn {
+            background: rgba(30, 41, 59, 0.8);
+            border: 1px solid var(--panel-border);
+            color: var(--text-secondary);
+            padding: 6px 12px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-family: inherit;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .filter-btn.active, .filter-btn:hover {
+            background: linear-gradient(135deg, rgba(6, 182, 212, 0.2), rgba(168, 85, 247, 0.2));
+            border-color: var(--accent-cyan);
+            color: var(--text-primary);
+        }
+
+        /* Agent Detail Card */
+        .agent-avatar {
+            width: 48px;
+            height: 48px;
+            border-radius: 14px;
+            background: linear-gradient(135deg, #1e293b, #0f172a);
+            border: 2px solid var(--accent-cyan);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            color: var(--accent-cyan);
+        }
+
+        .agent-info-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            font-size: 13px;
+        }
+
+        .info-item {
+            background: rgba(15, 23, 42, 0.6);
+            padding: 8px 12px;
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .info-label {
+            font-size: 11px;
+            color: var(--text-secondary);
+            margin-bottom: 2px;
+        }
+
+        .info-val {
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        /* Graph Control Toolbar Over Overlay */
+        .graph-toolbar {
+            position: absolute;
+            bottom: 24px;
+            left: 24px;
+            background: rgba(15, 23, 42, 0.85);
+            backdrop-filter: blur(16px);
+            border: 1px solid var(--panel-border);
+            border-radius: 16px;
+            padding: 8px 12px;
+            display: flex;
+            gap: 10px;
+            z-index: 10;
+        }
+
+        .tool-btn {
+            background: rgba(30, 41, 59, 0.6);
+            border: 1px solid var(--panel-border);
+            color: var(--text-primary);
+            width: 38px;
+            height: 38px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .tool-btn:hover {
+            background: var(--accent-cyan);
+            color: var(--bg-dark);
+            box-shadow: 0 0 15px var(--accent-cyan);
+        }
+
+        .obsidian-tag {
+            background: rgba(168, 85, 247, 0.15);
+            color: var(--accent-purple);
+            border: 1px solid rgba(168, 85, 247, 0.3);
+            padding: 2px 8px;
+            border-radius: 6px;
+            font-size: 11px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="bg-glow-1"></div>
+    <div class="bg-glow-2"></div>
+
+    <!-- Header Navigation -->
+    <header>
+        <div class="brand">
+            <div class="brand-logo">
+                <i class="fa-solid fa-diagram-project"></i>
+            </div>
+            <div class="brand-text">
+                <h1>منظومة الـ 35 وكيل ذكاء اصطناعي (Concept Graph)</h1>
+                <p>Obsidian Graph Sync • Gemini 3.6 / Qwen 3.6 Engine • 24/7 Workforce</p>
+            </div>
+        </div>
+
+        <div class="header-stats">
+            <div class="stat-badge">
+                <div class="pulse-dot"></div>
+                <span>الحالة: <strong>35 Agent شغال 24/7</strong></span>
+            </div>
+            <div class="stat-badge">
+                <i class="fa-solid fa-microchip"></i>
+                <span>المحرك: <strong>Gemini 3.6 Flash</strong></span>
+            </div>
+            <div class="stat-badge">
+                <i class="fa-solid fa-coins"></i>
+                <span>التكلفة اليومية: <strong>~$2.40 USD</strong></span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content Container -->
+    <div class="main-container">
+        
+        <!-- Inspector & Filter Sidebar (Right Side for RTL) -->
+        <div class="inspector-panel">
+            
+            <!-- Filter Cluster Card -->
+            <div class="panel-card">
+                <div class="card-header">
+                    <span class="card-title"><i class="fa-solid fa-filter"></i> تصفية المجموعات (Clusters)</span>
+                </div>
+                <div class="filter-group">
+                    <button class="filter-btn active" onclick="filterGraph('all')">الكل (35)</button>
+                    <button class="filter-btn" onclick="filterGraph('engineering')">الهندسة والتطوير (7)</button>
+                    <button class="filter-btn" onclick="filterGraph('operations')">العمليات والأتمتة (7)</button>
+                    <button class="filter-btn" onclick="filterGraph('knowledge')">المعرفة و Obsidian RAG (7)</button>
+                    <button class="filter-btn" onclick="filterGraph('analytics')">التحليلات والتكلفة (7)</button>
+                    <button class="filter-btn" onclick="filterGraph('quality')">الجودة والسلامة (7)</button>
+                </div>
+            </div>
+
+            <!-- Agent Details Card -->
+            <div class="panel-card" id="agentDetailCard">
+                <div class="card-header">
+                    <span class="card-title"><i class="fa-solid fa-robot"></i> تفاصيل الوكيل المحدد</span>
+                    <span class="obsidian-tag" id="selectedObsidianLink">[[Agent_35_Supervisor]]</span>
+                </div>
+
+                <div style="display: flex; align-items: center; gap: 14px;">
+                    <div class="agent-avatar" id="agentIcon">
+                        <i class="fa-solid fa-user-gear"></i>
+                    </div>
+                    <div>
+                        <h3 id="agentName" style="font-size: 16px; font-weight: 700;">35. المشرف العام (Master Supervisor)</h3>
+                        <p id="agentCluster" style="font-size: 12px; color: var(--accent-purple);">مجموعة الجودة والسلامة والتحكم</p>
+                    </div>
+                </div>
+
+                <div class="agent-info-grid">
+                    <div class="info-item">
+                        <div class="info-label">نموذج الذكاء الأصطناعي</div>
+                        <div class="info-val" id="agentModel" style="color: var(--accent-cyan);">Gemini 3.6 Flash</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">حالة التشغيل</div>
+                        <div class="info-val" id="agentStatus" style="color: var(--accent-green);">نشط (Processing)</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">استهلاك الـ Tokens اليوم</div>
+                        <div class="info-val" id="agentTokens">42,500 Tokens</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">الروابط المتصلة (Nodes)</div>
+                        <div class="info-val" id="agentNodeCount">8 اتصالات شبكية</div>
+                    </div>
+                </div>
+
+                <div style="background: rgba(15, 23, 42, 0.8); padding: 10px 12px; border-radius: 10px; font-size: 12px; border: 1px solid var(--panel-border);">
+                    <div style="color: var(--text-secondary); margin-bottom: 4px;"><i class="fa-solid fa-list-check"></i> المهمة الحالية:</div>
+                    <div id="agentTaskDescription" style="color: #e2e8f0; font-weight: 500;">تنسيق وتوجيه مهام الـ 34 وكيلاً ومراقبة جودة المخرجات في الوقت الفعلي.</div>
+                </div>
+            </div>
+
+            <!-- Obsidian Knowledge Graph Sync State -->
+            <div class="panel-card">
+                <div class="card-header">
+                    <span class="card-title"><i class="fa-solid fa-book-bookmark"></i> حالة الربط بـ Obsidian Vault</span>
+                </div>
+                <div style="font-size: 12px; color: var(--text-secondary); line-height: 1.6;">
+                    يتم مزامنة حالة الوكلاء في الوقت الفعلي مع ملفات Markdown داخل مجلد Obsidian الخاص بك. تظهر العُقد كـ <span class="obsidian-tag">[[WikiLinks]]</span> وتتحدث تلقائياً مع كل عملية جديدة.
+                </div>
+                <button style="background: linear-gradient(135deg, var(--accent-cyan), var(--accent-purple)); border: none; color: white; padding: 10px; border-radius: 12px; font-family: inherit; font-weight: 700; cursor: pointer; transition: opacity 0.2s;" onclick="triggerSimulatedPulse()">
+                    <i class="fa-solid fa-rotate"></i> محاكاة نَبضة مزامنة (Sync Graph Pulse)
+                </button>
+            </div>
+
+        </div>
+
+        <!-- Canvas Visualizer -->
+        <div class="canvas-wrapper">
+            <canvas id="graphCanvas"></canvas>
+
+            <!-- Graph Controls Overlay -->
+            <div class="graph-toolbar">
+                <button class="tool-btn" title="إعادة ضبط الرؤية" onclick="resetView()"><i class="fa-solid fa-compress"></i></button>
+                <button class="tool-btn" title="تكبير" onclick="zoom(1.2)"><i class="fa-solid fa-plus"></i></button>
+                <button class="tool-btn" title="تصغير" onclick="zoom(0.8)"><i class="fa-solid fa-minus"></i></button>
+                <button class="tool-btn" title="تبديل حركة الفيزيائيات" onclick="togglePhysics()"><i class="fa-solid fa-play"></i></button>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Graph Simulation & Render Script -->
+    <script>
+        const canvas = document.getElementById('graphCanvas');
+        const ctx = canvas.getContext('2d');
+
+        let width = canvas.width = canvas.parentElement.clientWidth;
+        let height = canvas.height = canvas.parentElement.clientHeight;
+
+        window.addEventListener('resize', () => {
+            width = canvas.width = canvas.parentElement.clientWidth;
+            height = canvas.height = canvas.parentElement.clientHeight;
+        });
+
+        // 35 Agents Data Definition across 5 Clusters
+        const clusters = {
+            engineering: { name: 'الهندسة والتطوير', color: '#06b6d4' },
+            operations: { name: 'العمليات والأتمتة', color: '#f97316' },
+            knowledge: { name: 'المعرفة و Obsidian RAG', color: '#a855f7' },
+            analytics: { name: 'التحليلات والتكلفة', color: '#3b82f6' },
+            quality: { name: 'الجودة والسلامة', color: '#10b981' }
+        };
+
+        const agentsData = [
+            // Engineering (01-07)
+            { id: 1, name: "01. مهندس المعمارية (Architect)", cluster: "engineering", model: "Gemini 3.6", task: "تصميم الهياكل وتحديد حدود الوحدات البرمجية." },
+            { id: 2, name: "02. مطور الخلفية (Backend Dev)", cluster: "engineering", model: "Gemini 3.6", task: "بناء الـ APIs وقواعد البيانات المنطقية." },
+            { id: 3, name: "03. مطور الواجهات (Frontend UI)", cluster: "engineering", model: "Gemini 3.6", task: "تطوير لوحات التحكم والتصميم التفاعلي." },
+            { id: 4, name: "04. مراجع الكود (Code Reviewer)", cluster: "engineering", model: "Gemini 3.6", task: "فحص جودة الأكواد والتأكد من المعايير القياسية." },
+            { id: 5, name: "05. مهندس الـ DevOps", cluster: "engineering", model: "Qwen 3.6", task: "أتمتة الحاويات (Docker) وأنابيب النشر (CI/CD)." },
+            { id: 6, name: "06. تدقيق الأمان (Security Auditor)", cluster: "engineering", model: "Gemini 3.6", task: "اكتشاف الثغرات وحماية البيانات الحساسة." },
+            { id: 7, name: "07. مدير قواعد البيانات (DB Manager)", cluster: "engineering", model: "Qwen 3.6", task: "تحسين الاستعلامات والـ Vector Indexing." },
+
+            // Operations (08-14)
+            { id: 8, name: "08. جدولة المهام (Task Scheduler)", cluster: "operations", model: "Qwen 3.6", task: "إدارة المهام الدورية (Cron Tasks) و الـ Queues." },
+            { id: 9, name: "09. موجه سير العمل (Dispatcher)", cluster: "operations", model: "Gemini 3.6", task: "توزيع المهام بين الوكلاء حسب التخصص." },
+            { id: 10, name: "10. جلب البيانات (Data Ingestion)", cluster: "operations", model: "Qwen 3.6", task: "سحب البيانات من الـ RSS والـ Web APIs." },
+            { id: 11, name: "11. المزامنة الخارجية (API Sync)", cluster: "operations", model: "Qwen 3.6", task: "إدارة الـ Webhooks والتكامل مع الخدمات." },
+            { id: 12, name: "12. مراقب الصحة (Health Monitor)", cluster: "operations", model: "Qwen 3.6", task: "مراقبة استجابة النظام وإنعاش الوكلاء المتوقفين." },
+            { id: 13, name: "13. النسخ الاحتياطي (Backup Agent)", cluster: "operations", model: "Qwen 3.6", task: "حفظ لقطات حية من Obsidian Vault." },
+            { id: 14, name: "14. ملخص السجلات (Log Synthesizer)", cluster: "operations", model: "Qwen 3.6", task: "تجميع وحليل الأخطاء اليومية." },
+
+            // Knowledge RAG (15-21)
+            { id: 15, name: "15. مستمع Obsidian (Graph Listener)", cluster: "knowledge", model: "Gemini 3.6", task: "مراقبة التعديلات في ملفات الـ Vault فور حدوثها." },
+            { id: 16, name: "16. تضمين المستندات (Doc Embedder)", cluster: "knowledge", model: "Qwen 3.6", task: "تحويل النصوص إلى Vector Embeddings." },
+            { id: 17, name: "17. الروابط الدلالية (Semantic Linker)", cluster: "knowledge", model: "Gemini 3.6", task: "إنشاء الـ WikiLinks التلقائية بين العقد." },
+            { id: 18, name: "18. دمج الذاكرة (Memory Consolidator)", cluster: "knowledge", model: "Gemini 3.6", task: "تلخيص الأحداث وتحويلها لذاكرة طويلة الأمد." },
+            { id: 19, name: "19. التصنيف والتصنيفات (Taxonomy)", cluster: "knowledge", model: "Qwen 3.6", task: "تنظيم الوسوم (Tags) والتصنيفات." },
+            { id: 20, name: "20. استخراج الكيانات (Entity Extractor)", cluster: "knowledge", model: "Qwen 3.6", task: "استخراج الأشخاص والأماكن والمصطلحات." },
+            { id: 21, name: "21. استعلام الـ RAG (RAG Synthesizer)", cluster: "knowledge", model: "Gemini 3.6", task: "الإجابة على الأسئلة المعقدة باستخدام سياق الجراف." },
+
+            // Analytics & Cost (22-28)
+            { id: 22, name: "22. حارس الـ Tokens (Token Guard)", cluster: "analytics", model: "Qwen 3.6", task: "فرض حدود الاستهلاك اليومي للـ Tokens." },
+            { id: 23, name: "23. تتبع التكلفة (Cost Tracker)", cluster: "analytics", model: "Qwen 3.6", task: "حساب التكلفة المالية المباشرة للاستعلامات." },
+            { id: 24, name: "24. محلل الإنتاجية (Throughput)", cluster: "analytics", model: "Qwen 3.6", task: "قياس سرعة الاستجابة وزمن المعالجة." },
+            { id: 25, name: "25. كاشف الاتجاهات (Trend Analyzer)", cluster: "analytics", model: "Gemini 3.6", task: "تحليل أنماط العمل وتحديد الفجوات." },
+            { id: 26, name: "26. تقارير الإدارة (Executive Report)", cluster: "analytics", model: "Gemini 3.6", task: "إنشاء تقارير ملخصة للإدارة." },
+            { id: 27, name: "27. كاشف الشذوذ (Anomaly Detector)", cluster: "analytics", model: "Gemini 3.6", task: "اكتشاف الحلقات التكرارية والهدر." },
+            { id: 28, name: "28. محسن الكفاءة (Efficiency Agent)", cluster: "analytics", model: "Gemini 3.6", task: "ضغط الـ Prompts واستخدام الـ Caching." },
+
+            // Quality & Safety (29-35)
+            { id: 29, name: "29. حارس المخرجات (Output Guardrail)", cluster: "quality", model: "Gemini 3.6", task: "فحص الأمان وعدم مخالفة السياسات." },
+            { id: 30, name: "30. مدقق الـ JSON (Schema Validator)", cluster: "quality", model: "Qwen 3.6", task: "التأكد من صحة التنسيق الهيكلي للبيانات." },
+            { id: 31, name: "31. مدقق الحقائق (Fact Checker)", cluster: "quality", model: "Gemini 3.6", task: "مكافحة الهلوسة والتحقق من المراجع." },
+            { id: 32, name: "32. قناع الخصوصية (PII Masker)", cluster: "quality", model: "Qwen 3.6", task: "اخفاء البيانات الحساسة مثل الهواتف والإيميلات." },
+            { id: 33, name: "33. التوافق التنظيمي (Compliance)", cluster: "quality", model: "Gemini 3.6", task: "مراجعة الالتزام بقواعد العمل." },
+            { id: 34, name: "34. التصحيح الذاتي (Self Correction)", cluster: "quality", model: "Gemini 3.6", task: "إعادة محاولة وتعديل الـ Prompts عند الفشل." },
+            { id: 35, name: "35. المشرف العام (Master Supervisor)", cluster: "quality", model: "Gemini 3.6", task: "تنسيق وتوجيه جميع الوكلاء في المنظومة." }
+        ];
+
+        // Generate Graph Nodes with Initial Positions
+        let nodes = agentsData.map((agent, index) => {
+            const angle = (index / agentsData.length) * Math.PI * 2;
+            const radius = 180 + Math.random() * 120;
+            return {
+                ...agent,
+                x: width / 2 + Math.cos(angle) * radius,
+                y: height / 2 + Math.sin(angle) * radius,
+                vx: (Math.random() - 0.5) * 0.5,
+                vy: (Math.random() - 0.5) * 0.5,
+                radius: agent.id === 35 ? 18 : 12,
+                tokens: Math.floor(Math.random() * 50000 + 10000)
+            };
+        });
+
+        // Generate Edges / Connections
+        let edges = [];
+        // Connect Master Supervisor (35) to cluster leaders
+        [1, 9, 15, 22].forEach(targetId => {
+            edges.push({ source: 35, target: targetId });
+        });
+
+        // Connect agents within the same cluster and some cross-cluster RAG links
+        for (let i = 0; i < nodes.length; i++) {
+            for (let j = i + 1; j < nodes.length; j++) {
+                if (nodes[i].cluster === nodes[j].cluster && Math.random() > 0.6) {
+                    edges.push({ source: nodes[i].id, target: nodes[j].id });
+                } else if (Math.random() > 0.94) {
+                    edges.push({ source: nodes[i].id, target: nodes[j].id });
+                }
+            }
+        }
+
+        let selectedNode = nodes[34]; // Default Supervisor
+        let selectedFilter = 'all';
+        let isPhysicsRunning = true;
+        let scale = 1;
+        let offsetX = 0;
+        let offsetY = 0;
+
+        // Render Graph Engine
+        function render() {
+            ctx.clearRect(0, 0, width, height);
+            ctx.save();
+            ctx.translate(offsetX, offsetY);
+            ctx.scale(scale, scale);
+
+            // Update physics if running
+            if (isPhysicsRunning) {
+                nodes.forEach(node => {
+                    node.x += node.vx;
+                    node.y += node.vy;
+
+                    // Damping & bounce off edges
+                    if (node.x < 50 || node.x > width - 50) node.vx *= -1;
+                    if (node.y < 50 || node.y > height - 50) node.vy *= -1;
+                });
+            }
+
+            // Draw Edges
+            edges.forEach(edge => {
+                const source = nodes.find(n => n.id === edge.source);
+                const target = nodes.find(n => n.id === edge.target);
+
+                if (!source || !target) return;
+                if (selectedFilter !== 'all' && source.cluster !== selectedFilter && target.cluster !== selectedFilter) return;
+
+                ctx.beginPath();
+                ctx.moveTo(source.x, source.y);
+                ctx.lineTo(target.x, target.y);
+                ctx.strokeStyle = (selectedNode && (source.id === selectedNode.id || target.id === selectedNode.id)) 
+                    ? '#06b6d4' : 'rgba(255, 255, 255, 0.08)';
+                ctx.lineWidth = (selectedNode && (source.id === selectedNode.id || target.id === selectedNode.id)) ? 2 : 1;
+                ctx.stroke();
+            });
+
+            // Draw Nodes
+            nodes.forEach(node => {
+                if (selectedFilter !== 'all' && node.cluster !== selectedFilter) return;
+
+                const isSelected = selectedNode && selectedNode.id === node.id;
+                const clusterColor = clusters[node.cluster].color;
+
+                // Glow effect for selected
+                if (isSelected) {
+                    ctx.beginPath();
+                    ctx.arc(node.x, node.y, node.radius + 10, 0, Math.PI * 2);
+                    ctx.fillStyle = 'rgba(6, 182, 212, 0.25)';
+                    ctx.fill();
+                }
+
+                // Main Node Circle
+                ctx.beginPath();
+                ctx.arc(node.x, node.y, node.radius, 0, Math.PI * 2);
+                ctx.fillStyle = clusterColor;
+                ctx.shadowColor = clusterColor;
+                ctx.shadowBlur = isSelected ? 20 : 6;
+                ctx.fill();
+                ctx.shadowBlur = 0;
+
+                // Label Text
+                ctx.font = isSelected ? 'bold 13px Tajawal' : '11px Tajawal';
+                ctx.fillStyle = isSelected ? '#ffffff' : '#94a3b8';
+                ctx.textAlign = 'center';
+                ctx.fillText(node.id, node.x, node.y + node.radius + 14);
+            });
+
+            ctx.restore();
+            requestAnimationFrame(render);
+        }
+
+        render();
+
+        // Canvas Interaction Handling (Click & Drag)
+        let isDragging = false;
+        let startX, startY;
+
+        canvas.addEventListener('mousedown', (e) => {
+            const rect = canvas.getBoundingClientRect();
+            const clickX = (e.clientX - rect.left - offsetX) / scale;
+            const clickY = (e.clientY - rect.top - offsetY) / scale;
+
+            // Check if node clicked
+            const clicked = nodes.find(n => {
+                const dist = Math.hypot(n.x - clickX, n.y - clickY);
+                return dist <= n.radius + 5;
+            });
+
+            if (clicked) {
+                selectNode(clicked);
+            } else {
+                isDragging = true;
+                startX = e.clientX - offsetX;
+                startY = e.clientY - offsetY;
+            }
+        });
+
+        canvas.addEventListener('mousemove', (e) => {
+            if (isDragging) {
+                offsetX = e.clientX - startX;
+                offsetY = e.clientY - startY;
+            }
+        });
+
+        canvas.addEventListener('mouseup', () => isDragging = false);
+
+        function selectNode(node) {
+            selectedNode = node;
+            document.getElementById('agentName').innerText = node.name;
+            document.getElementById('agentCluster').innerText = clusters[node.cluster].name;
+            document.getElementById('agentCluster').style.color = clusters[node.cluster].color;
+            document.getElementById('agentModel').innerText = node.model;
+            document.getElementById('agentTokens').innerText = node.tokens.toLocaleString() + ' Tokens';
+            document.getElementById('agentTaskDescription').innerText = node.task;
+            document.getElementById('selectedObsidianLink').innerText = `[[Agent_${node.id.toString().padStart(2, '0')}_${node.cluster}]]`;
+
+            const connectedEdges = edges.filter(e => e.source === node.id || e.target === node.id);
+            document.getElementById('agentNodeCount').innerText = `${connectedEdges.length} اتصالات شبكية`;
+        }
+
+        function filterGraph(clusterKey) {
+            selectedFilter = clusterKey;
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        function togglePhysics() {
+            isPhysicsRunning = !isPhysicsRunning;
+        }
+
+        function zoom(factor) {
+            scale *= factor;
+        }
+
+        function resetView() {
+            scale = 1;
+            offsetX = 0;
+            offsetY = 0;
+        }
+
+        function triggerSimulatedPulse() {
+            nodes.forEach(n => {
+                n.vx += (Math.random() - 0.5) * 3;
+                n.vy += (Math.random() - 0.5) * 3;
+                n.tokens += Math.floor(Math.random() * 500);
+            });
+            selectNode(selectedNode);
+        }
+    </script>
+</body>
+</html>
